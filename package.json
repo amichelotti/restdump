@@ -1,0 +1,26 @@
+{
+  "name": "restdump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "restdump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amichelotti/restdump.git"
+  },
+  "keywords": [
+    "rest",
+    "ex"
+  ],
+  "author": "Andrea Michelotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amichelotti/restdump/issues"
+  },
+  "homepage": "https://github.com/amichelotti/restdump#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
